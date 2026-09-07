@@ -1,7 +1,7 @@
 <div align="center">
 <b>
 
-Studying Computer Science at Politehnica Bucharest, in my third year, with a strong focus on systems programming in C and C++ — operating systems, memory management, concurrency and network protocols. Contributing to open source, mostly around Linux internals and unikernels, and comfortable working inside large codebases I did not write. Building agentic AI systems in Python with Gemini and Google's Agent Development Kit, with a particular interest in retrieval, evaluation, and keeping generated output traceable to a verifiable source. Continuously widening the range, from functional programming in Haskell and Racket to Android platform development and digital design in Verilog. Currently looking for a software engineering internship for summer 2027, in Bucharest or elsewhere in EMEA.
+Studying Computer Science at Politehnica Bucharest, in my third year, with a strong focus on systems programming in C and C++ — operating systems, memory management, concurrency and network protocols. Contributing to open source, mostly around Linux internals and unikernels, and comfortable working inside large codebases I did not write. Building agentic AI systems in Python with Gemini and Google's Agent Development Kit, with a particular interest in retrieval, evaluation, and keeping generated output traceable to a verifiable source. Continuously widening the range, from functional programming in Haskell and Racket to Android platform development and digital design in Verilog.
 
 </b>
 </div>
