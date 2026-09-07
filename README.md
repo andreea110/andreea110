@@ -36,7 +36,7 @@ Studying Computer Science at Politehnica Bucharest, in my third year, with a str
 
   <li>Object-oriented programming — Java
     <ul style="list-style-type:square;">
-      <li>An issue tracking and workflow system built around design patterns, with JSON reference tests: https://github.com/andreea110/Ticket-Development-Application</li>
+      <li>An issue tracking and workflow system built around design patterns, with JSON reference tests: https://github.com/andreea110/ticket-development-application</li>
       <li>A simulation of a robot tending a territory, with interactions resolved by double dispatch: https://github.com/andreea110/autonomous-robot-sim-java</li>
     </ul>
   <br>
@@ -53,16 +53,16 @@ Studying Computer Science at Politehnica Bucharest, in my third year, with a str
   <li>AI and machine learning — Python
     <ul style="list-style-type:square;">
       <li>My work from the Google Romania Building Agentic AI summer school: multi-agent pipelines on Gemini and the Agent Development Kit, and evaluation suites scored by an LLM judge: https://github.com/andreea110/google-agentic-summer-school/blob/main/MY-WORK.md</li>
-      <li>A CNN in PyTorch classifying FashionMNIST clothing images: https://github.com/andreea110/Clothes-Recognizer</li>
+      <li>A CNN in PyTorch classifying FashionMNIST clothing images: https://github.com/andreea110/clothes-recognizer</li>
       <li>Predicting whether a student passes an exam, with a Gradio interface over the trained model: https://github.com/andreea110/student-exam-pass-classifier</li>
-      <li>Markov chains, linear regression and MNIST classification in MATLAB: https://github.com/andreea110/Numerical-Methods-for-Matrices</li>
+      <li>Markov chains, linear regression and MNIST classification in MATLAB: https://github.com/andreea110/numerical-methods-for-matrices</li>
     </ul>
   <br>
   </li>
 
   <li>Other
     <ul style="list-style-type:square;">
-      <li>A command-line image editor in C with crop, resize and filters: https://github.com/andreea110/Image-Editor</li>
+      <li>A command-line image editor in C with crop, resize and filters: https://github.com/andreea110/image-editor</li>
       <li>Exercises from the GitHub and Markdown workshops at CDL, ROSEDU: https://github.com/andreea110/workshop-github</li>
     </ul>
   </li>
