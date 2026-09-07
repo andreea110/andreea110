@@ -37,7 +37,7 @@ Studying Computer Science at Politehnica Bucharest, in my third year, with a str
   <li>Object-oriented programming — Java
     <ul style="list-style-type:square;">
       <li>An issue tracking and workflow system built around design patterns, with JSON reference tests: https://github.com/andreea110/ticket-development-application</li>
-      <li>A simulation of a robot tending a territory, with interactions resolved by double dispatch: https://github.com/andreea110/autonomous-robot-sim-java</li>
+      <li>A simulation of a robot tending a territory, with interactions dispatched through a type-keyed strategy registry: https://github.com/andreea110/autonomous-robot-sim-java</li>
     </ul>
   <br>
   </li>
@@ -62,7 +62,7 @@ Studying Computer Science at Politehnica Bucharest, in my third year, with a str
 
   <li>Other
     <ul style="list-style-type:square;">
-      <li>A command-line image editor in C with crop, resize and filters: https://github.com/andreea110/image-editor</li>
+      <li>A command-line image editor in C for PGM/PPM: select, crop, rotate and convolution filters: https://github.com/andreea110/image-editor</li>
       <li>Exercises from the GitHub and Markdown workshops at CDL, ROSEDU: https://github.com/andreea110/workshop-github</li>
     </ul>
   </li>
