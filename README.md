@@ -13,7 +13,7 @@ Studying Computer Science at Politehnica Bucharest, in my third year, with a str
   <li>Memcached ported to the Unikraft unikernel in binary-compatibility mode, merged upstream: https://github.com/unikraft/catalog-core/pull/114</li>
 </ul>
 
-<h2>Personal repositories & projects</h2>
+<h2>Repositories & projects</h2>
 <ul style="list-style-type:circle;">
   <li>Operating systems — C
     <ul style="list-style-type:square;">
