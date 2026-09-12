@@ -63,8 +63,6 @@ Studying Computer Science at Politehnica Bucharest, in my third year, with a str
   <li>Other
     <ul style="list-style-type:square;">
       <li>A command-line image editor in C for PGM/PPM: select, crop, rotate and convolution filters: https://github.com/andreea110/image-editor</li>
-      <li>Exercises from the GitHub and Markdown workshops at CDL, ROSEDU: https://github.com/andreea110/workshop-github</li>
-    </ul>
   </li>
 </ul>
 
